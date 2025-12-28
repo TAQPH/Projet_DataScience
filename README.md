@@ -24,8 +24,8 @@ Regularized linear models and ensemble tree-based models are evaluated using bot
 
 
 ## Project Structure
-text
-├── main.py                  # Entry point
+```text
+├── main.py                   # Entry point
 ├── src/                      # Source code
 │   ├── data_loader.py        # Data loading and preprocessing
 │   ├── models.py             # Model training and tuning
@@ -35,21 +35,21 @@ text
 ├── results/                  # Outputs and figures
 ├── requirements.txt          # Project dependencies
 └── README.md
-
+```
 
 ## Installation
 To install the required dependencies, run the following command from the project root:
 
 ```bash
 python -m pip install -r requirements.txt
-
+```
 
 ## Usage
 Run the complete machine learning pipeline using:
 
 ```bash
 python main.py
-
+```
 This script loads the data, preprocesses the features, trains all models, and reports their performance using R², RMSE, and MAE.
 
 
