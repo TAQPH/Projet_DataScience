@@ -24,7 +24,7 @@ Regularized linear models and ensemble tree-based models are evaluated using bot
 
 
 ## Project Structure
-```text
+text
 ├── main.py                  # Entry point
 ├── src/                      # Source code
 │   ├── data_loader.py        # Data loading and preprocessing
