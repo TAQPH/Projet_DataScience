@@ -85,7 +85,7 @@ Graphical and quantitative interpretation of the most relevant features.
 A concise report explaining data, methods, results, and limitations. 
 
 
-## 7) Stretch Goals (If Time Permits) - - - 
+## 7 Stretch Goals (If Time Permits) - - - 
 
 Add XGBoost or LightGBM for improved gradient boosting performance.   
 Use SHAP values for advanced model interpretability.   

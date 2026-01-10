@@ -9,4 +9,4 @@ ChatGPT was used to:
 
 DeepL was used to assist with English phrasing and translation.
 
-All modeling decisions, data preprocessing choices, implementation, analysis, and interpretations were fully understood and validated by the author. No code or content was included without being reviewed, adapted, and verified.
+Everything linked to the code and the report were my own choices and own work. No code or content was included without at least being reviewed, adapted, and verified.
