@@ -42,7 +42,7 @@ Install the required dependencies from the project root using:
 python -m pip install -r requirements.txt
 ```
 **Recommended Python version:** Python 3.13.5  
-The project is compatible with Python 3.9 and above. Python 3.14 is not recommended.
+The project is compatible with Python 3.10 and above. Python 3.14 is not recommended.
 
 
 ## Usage
